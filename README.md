@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Machine Translation](#machine-translation)
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
+* [Machine Translation (Low-Resource)](#machine-translation-low-resource)
 * [Knowledge Distillation](#knowledge-distillation)
 * [Attention](#attention)
 - [Transformers](#transformers)
@@ -17,8 +18,13 @@
 ### Machine Translation (Non-Autoregressive)
 - April 2020: [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/abs/2004.07437)
 
+<!-- Machine Translation (Low-Resource)-->
+### Machine Translation (Low-Resource)
+- September 2020: [Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages](https://arxiv.org/abs/2009.11201)
+
 <!-- Knowledge Distillation -->
 ### Knowledge Distillation
+- September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
 
 <!-- Attention -->
