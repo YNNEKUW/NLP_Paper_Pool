@@ -5,6 +5,7 @@
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
 * [Knowledge Distillation](#knowledge-distillation)
 * [Attention](#attention)
+- [Transformers](#transformers)
 
 <!-- Machine Translation -->
 ### Machine Translation
@@ -23,3 +24,7 @@
 <!-- Attention -->
 ### Attention
 - September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
+
+<!-- Transforemrs -->
+### Transformers
+- April 2020: [Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning](https://arxiv.org/abs/2004.08097)
