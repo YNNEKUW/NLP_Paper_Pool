@@ -33,4 +33,4 @@
 
 <!-- Attention -->
 ### Attention
-- September 2020: 
+- September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
