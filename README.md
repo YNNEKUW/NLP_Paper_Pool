@@ -6,7 +6,7 @@
 * [Machine Translation (Low-Resource)](#machine-translation-low-resource)
 * [Knowledge Distillation](#knowledge-distillation)
 * [Attention](#attention)
-- [Transformers](#transformers)
+* [Transformers](#transformers)
 
 <!-- Machine Translation -->
 ### Machine Translation
