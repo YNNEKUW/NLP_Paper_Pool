@@ -1,8 +1,8 @@
 # NLP_Paper_Pool
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [Machine Translation]
-* [Knowledge Distillation]
+* [Machine Translation](#machine-translation)
+* [Knowledge Distillation](#knowledge-distillation)
 
 <!-- Machine Translation -->
 ### Machine Translation
