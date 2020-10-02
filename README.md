@@ -7,6 +7,8 @@
 * [Knowledge Distillation](#knowledge-distillation)
 * [Attention](#attention)
 * [Transformers](#transformers)
+* [Training Tips for Transformers](#training-tips-for-transformers)
+  * [Positional Encoding](#positional-encoding)
 
 <!-- Machine Translation -->
 ### Machine Translation
@@ -26,6 +28,7 @@
 ### Knowledge Distillation
 - September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
+- June 2020: [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
 - February 2020: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
 
 <!-- Attention -->
@@ -35,3 +38,7 @@
 <!-- Transforemrs -->
 ### Transformers
 - April 2020: [Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning](https://arxiv.org/abs/2004.08097)
+
+<!-- Traning Tips for Transformers -->
+### Training Tips for Transformers
+#### Positional Encoding
