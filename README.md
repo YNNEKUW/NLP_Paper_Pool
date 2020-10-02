@@ -26,6 +26,7 @@
 ### Knowledge Distillation
 - September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
+- February 2020: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
 
 <!-- Attention -->
 ### Attention
