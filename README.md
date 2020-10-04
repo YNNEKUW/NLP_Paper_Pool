@@ -10,6 +10,8 @@
 * [Training Tips for Transformers](#training-tips-for-transformers)
   * [Positional Encoding](#positional-encoding)
   * [Long Text](#long-text)
+  * [Miscellaneous](#miscellaneous)
+* [Explaination](#explaination)
 
 <!-- Machine Translation -->
 ## Machine Translation
@@ -35,10 +37,14 @@
 <!-- Attention -->
 ## Attention
 - September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
+- June 2020: [Limits to Depth Efficiencies of Self-Attention](https://arxiv.org/abs/2006.12467)
+- May 2020: [Hard-Coded Gaussian Attention for Neural Machine Translation](https://arxiv.org/abs/2005.00742)
+- November 2019: [Location Attention for Extrapolation to Longer Sequences](https://arxiv.org/abs/1911.03872)
 
 <!-- Transforemrs -->
 ## Transformers
 - April 2020: [Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning](https://arxiv.org/abs/2004.08097)
+- May 2019: [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
 
 <!-- Traning Tips for Transformers -->
 ## Training Tips for Transformers
@@ -46,3 +52,10 @@
 - March 2020: [Learning to Encode Position for Transformer with Continuous Dynamical Model](https://arxiv.org/abs/2003.09229)
 ### Long Text
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
+### Miscellaneous
+- July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
+
+<!-- Explaination -->
+## Explaination
+- April 2020: [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102)
+- September 2019: [Learning to Deceive with Attention-Based Explanations](https://arxiv.org/abs/1909.07913)
