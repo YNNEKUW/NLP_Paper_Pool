@@ -12,6 +12,7 @@
   * [Long Text](#long-text)
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
+* [Rich Answer Type](#rich-answer-type)
 
 <!-- Machine Translation -->
 ## Machine Translation
@@ -59,3 +60,7 @@
 ## Explaination
 - April 2020: [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102)
 - September 2019: [Learning to Deceive with Attention-Based Explanations](https://arxiv.org/abs/1909.07913)
+
+<!-- Rich Answer Type -->
+## Rich Answer Type
+- September 2020:[No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension](https://arxiv.org/abs/2009.12056)
