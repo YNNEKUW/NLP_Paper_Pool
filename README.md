@@ -37,6 +37,7 @@
 
 <!-- Attention -->
 ## Attention
+- September 2020: [Sparsifying Transformer Models with Differentiable Representation Pooling](https://arxiv.org/abs/2009.05169)
 - September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
 - June 2020: [Limits to Depth Efficiencies of Self-Attention](https://arxiv.org/abs/2006.12467)
 - May 2020: [Hard-Coded Gaussian Attention for Neural Machine Translation](https://arxiv.org/abs/2005.00742)
