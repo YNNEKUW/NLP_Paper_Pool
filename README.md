@@ -13,6 +13,7 @@
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
+* [Optimizer](#optimizer)
 
 <!-- Machine Translation -->
 ## Machine Translation
@@ -65,3 +66,7 @@
 <!-- Rich Answer Type -->
 ## Rich Answer Type
 - September 2020:[No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension](https://arxiv.org/abs/2009.12056)
+
+<!-- Optimizer -->
+## Optimizer
+- September 2020:[Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization](https://arxiv.org/abs/2009.13586)
