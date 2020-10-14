@@ -17,6 +17,7 @@
 
 <!-- Machine Translation -->
 ## Machine Translation
+- October 2020: [Multi-task Learning for Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.02523)
 - September 2020: [Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models](https://arxiv.org/abs/2009.13267)
 - September 2020: [Softmax Tempering for Training Neural Machine Translation Models](https://arxiv.org/abs/2009.09372)
 - September 2020: [CSP: Code-Switching Pre-training for Neural Machine Translation](https://arxiv.org/abs/2009.08088)
@@ -28,6 +29,7 @@
 
 <!-- Machine Translation (Low-Resource)-->
 ## Machine Translation (Low-Resource)
+- October 2020: [Improving Target-side Lexical Transfer in Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.01667)
 - September 2020: [Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages](https://arxiv.org/abs/2009.11201)
 
 <!-- Knowledge Distillation -->
