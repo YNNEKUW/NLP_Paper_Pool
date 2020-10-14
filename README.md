@@ -17,6 +17,8 @@
 
 <!-- Machine Translation -->
 ## Machine Translation
+- October 2020: [Nearest Neighbor Machine Translation](https://arxiv.org/abs/2010.00710)
+- October 2020: [Inference Strategies for Machine Translation with Conditional Masking](https://arxiv.org/abs/2010.02352)
 - October 2020: [Multi-task Learning for Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.02523)
 - September 2020: [Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models](https://arxiv.org/abs/2009.13267)
 - September 2020: [Softmax Tempering for Training Neural Machine Translation Models](https://arxiv.org/abs/2009.09372)
@@ -41,6 +43,7 @@
 
 <!-- Attention -->
 ## Attention
+- October 2020: [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399)
 - September 2020: [Sparsifying Transformer Models with Differentiable Representation Pooling](https://arxiv.org/abs/2009.05169)
 - September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
 - June 2020: [Limits to Depth Efficiencies of Self-Attention](https://arxiv.org/abs/2006.12467)
