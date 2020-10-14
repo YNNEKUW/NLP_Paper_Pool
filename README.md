@@ -17,6 +17,7 @@
 
 <!-- Machine Translation -->
 ## Machine Translation
+- September 2020: [Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models](https://arxiv.org/abs/2009.13267)
 - September 2020: [Softmax Tempering for Training Neural Machine Translation Models](https://arxiv.org/abs/2009.09372)
 - September 2020: [CSP: Code-Switching Pre-training for Neural Machine Translation](https://arxiv.org/abs/2009.08088)
 - June 2020: [Deep Encoder, Shallow Decoder: Reevaluating the Speed-Quality Tradeoff in Machine Translation](https://arxiv.org/abs/2006.10369)
