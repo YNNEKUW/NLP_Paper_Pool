@@ -4,7 +4,7 @@
 * [Machine Translation](#machine-translation)
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
 * [Machine Translation (Low-Resource)](#machine-translation-low-resource)
-* [Knowledge Distillation](#knowledge-distillation)
+* [Model Compression](#model-compression)
 * [Attention](#attention)
 * [Transformers](#transformers)
 * [Training Tips for Transformers](#training-tips-for-transformers)
@@ -34,12 +34,13 @@
 - October 2020: [Improving Target-side Lexical Transfer in Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.01667)
 - September 2020: [Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages](https://arxiv.org/abs/2009.11201)
 
-<!-- Knowledge Distillation -->
-## Knowledge Distillation
+<!-- Model Compression -->
+## Model Compression
 - September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
 - June 2020: [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
 - February 2020: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing](https://arxiv.org/abs/2002.02925)
+- February 2020: [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://arxiv.org/abs/2002.11985)
 
 <!-- Attention -->
 ## Attention
@@ -54,7 +55,6 @@
 ## Transformers
 - August 2020: [DeLighT: Very Deep and Light-weight Transformer](https://arxiv.org/abs/2008.00623)
 - April 2020: [Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning](https://arxiv.org/abs/2004.08097)
-- February 2020: [Compressing Large-Scale Transformer-Based Models: A Case Study on BERT](https://arxiv.org/abs/2002.11985)
 - May 2019: [Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
 
 <!-- Traning Tips for Transformers -->
