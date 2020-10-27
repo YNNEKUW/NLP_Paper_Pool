@@ -47,6 +47,7 @@
 - October 2020: [SMYRF: Efficient Attention using Asymmetric Clustering](https://arxiv.org/abs/2010.05315)
 - October 2020: [Improving Attention Mechanism with Query-Value Interaction](https://arxiv.org/abs/2010.03766)
 - October 2020: [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399)
+- September 2020: [An Attention Free Transformer ]
 - September 2020: [Sparsifying Transformer Models with Differentiable Representation Pooling](https://arxiv.org/abs/2009.05169)
 - September 2020: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference](https://arxiv.org/abs/2009.09364)
 - June 2020: [Limits to Depth Efficiencies of Self-Attention](https://arxiv.org/abs/2006.12467)
