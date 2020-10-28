@@ -82,4 +82,5 @@
 ## Optimizer
 - September 2020:[Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization](https://arxiv.org/abs/2009.13586)
 
+## Need to update
 1. An Attention Free Transformer
