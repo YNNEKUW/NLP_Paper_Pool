@@ -10,6 +10,7 @@
 * [Training Tips for Transformers](#training-tips-for-transformers)
   * [Positional Encoding](#positional-encoding)
   * [Long Text](#long-text)
+  * [Pretraining](#pretraining)
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
@@ -66,6 +67,8 @@
 - March 2020: [Learning to Encode Position for Transformer with Continuous Dynamical Model](https://arxiv.org/abs/2003.09229)
 ### Long Text
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
+### Pretraining
+- Oct 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
 ### Miscellaneous
 - July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
 
