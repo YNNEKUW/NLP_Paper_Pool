@@ -81,6 +81,7 @@
 
 <!-- Explaination -->
 ## Explaination
+- October 2020: [Explaining and Improving Model Behavior with k Nearest Neighbor Representations](https://arxiv.org/abs/2010.09030)
 - April 2020: [Attention Module is Not Only a Weight: Analyzing Transformers with Vector Norms](https://arxiv.org/abs/2004.10102)
 - September 2019: [Learning to Deceive with Attention-Based Explanations](https://arxiv.org/abs/1909.07913)
 
