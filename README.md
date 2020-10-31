@@ -39,6 +39,7 @@
 
 <!-- Model Compression -->
 ## Model Compression
+- October 2020: [Optimizing Transformers with Approximate Computing for Faster, Smaller and more Accurate NLP Models](https://arxiv.org/abs/2010.03688)
 - September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
 - June 2020: [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316)
@@ -71,9 +72,9 @@
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
 ### Pretraining
 #### Auxiliary Tasks
-- Oct 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
+- October 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
 #### Special Tokens Across Layers
-- Oct 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
+- October 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
 ### Miscellaneous
 - July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
 
