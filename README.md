@@ -11,6 +11,8 @@
   * [Positional Encoding](#positional-encoding)
   * [Long Text](#long-text)
   * [Pretraining](#pretraining)
+    * [Auxiliary Tasks](#auxiliary-tasks)
+    * [Special Tokens Across Layers](#special-tokens-across-layers)
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
@@ -68,6 +70,9 @@
 ### Long Text
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
 ### Pretraining
+#### Auxiliary Tasks
+- Oct 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
+#### Special Tokens Across Layers
 - Oct 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
 ### Miscellaneous
 - July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
