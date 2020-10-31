@@ -39,6 +39,7 @@
 
 <!-- Model Compression -->
 ## Model Compression
+- October 2020: [Adversarial Self-Supervised Data-Free Distillation for Text Classification](https://arxiv.org/abs/2010.04883)
 - October 2020: [Optimizing Transformers with Approximate Computing for Faster, Smaller and more Accurate NLP Models](https://arxiv.org/abs/2010.03688)
 - September 2020: [Contrastive Distillation on Intermediate Representations for Language Model Compression](https://arxiv.org/abs/2009.14167v1)
 - September 2020: [Weight Distillation: Transferring the Knowledge in Neural Network Parameters](https://arxiv.org/abs/2009.09152)
