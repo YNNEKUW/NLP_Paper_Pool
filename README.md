@@ -1,6 +1,8 @@
 # NLP_Paper_Pool
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
+* [Datset](#dataset)
+  * [Open Domain QA](#open-domain-qa)
 * [Machine Translation](#machine-translation)
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
 * [Machine Translation (Low-Resource)](#machine-translation-low-resource)
@@ -17,6 +19,11 @@
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
 * [Optimizer](#optimizer)
+
+<!-- Dataset -->
+## Dataset
+### Open Domain QA
+- October 2020: [Open-Domain Question Answering Goes Conversational via Question Rewriting](https://arxiv.org/abs/2010.04898)
 
 <!-- Machine Translation -->
 ## Machine Translation
