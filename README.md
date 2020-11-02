@@ -56,6 +56,7 @@
 
 <!-- Attention -->
 ## Attention
+- October 2020: [Long Document Ranking with Query-Directed Sparse Transformer](https://arxiv.org/abs/2010.12683)
 - October 2020: [SMYRF: Efficient Attention using Asymmetric Clustering](https://arxiv.org/abs/2010.05315)
 - October 2020: [Improving Attention Mechanism with Query-Value Interaction](https://arxiv.org/abs/2010.03766)
 - October 2020: [Guiding Attention for Self-Supervised Learning with Transformers](https://arxiv.org/abs/2010.02399)
@@ -77,6 +78,7 @@
 ### Positional Encoding
 - March 2020: [Learning to Encode Position for Transformer with Continuous Dynamical Model](https://arxiv.org/abs/2003.09229)
 ### Long Text
+- October 2020: [Long Document Ranking with Query-Directed Sparse Transformer](https://arxiv.org/abs/2010.12683)
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
 ### Pretraining
 #### Auxiliary Tasks
