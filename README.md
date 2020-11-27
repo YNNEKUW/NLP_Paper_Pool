@@ -22,6 +22,7 @@
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
 * [Optimizer](#optimizer)
+* [Text Attribute Transfer](#text-attribute-transfer)
 
 <!-- Dataset -->
 ## Dataset
@@ -113,6 +114,10 @@
 <!-- Optimizer -->
 ## Optimizer
 - September 2020:[Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization](https://arxiv.org/abs/2009.13586)
+
+<!-- Text Attribute Transfer -->
+## Text Attribute Transfer
+- November 2020:[Deep Learning for Text Attribute Transfer: A Survey](https://arxiv.org/abs/2011.00416)
 
 ## Need to update
 1. An Attention Free Transformer
