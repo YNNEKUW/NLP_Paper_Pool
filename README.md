@@ -12,6 +12,7 @@
 * [Transformers](#transformers)
 * [Training Tips for Transformers](#training-tips-for-transformers)
   * [Positional Encoding](#positional-encoding)
+  * [Char Embedding](#char-embedding)
   * [Long Text](#long-text)
   * [Word Sense Disambiguation](#word-sense-disambiguation)
   * [Pretraining](#pretraining)
@@ -84,6 +85,8 @@
 ## Training Tips for Transformers
 ### Positional Encoding
 - March 2020: [Learning to Encode Position for Transformer with Continuous Dynamical Model](https://arxiv.org/abs/2003.09229)
+### Char Embedding
+-November 2020: [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513)
 ### Long Text
 - October 2020: [Long Document Ranking with Query-Directed Sparse Transformer](https://arxiv.org/abs/2010.12683)
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
