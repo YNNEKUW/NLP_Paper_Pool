@@ -12,6 +12,7 @@
 * [Training Tips for Transformers](#training-tips-for-transformers)
   * [Positional Encoding](#positional-encoding)
   * [Long Text](#long-text)
+  * [Word Sense Disambiguation](#word-sense-disambiguation)
   * [Pretraining](#pretraining)
     * [Auxiliary Tasks](#auxiliary-tasks)
     * [Special Tokens Across Layers](#special-tokens-across-layers)
@@ -37,6 +38,7 @@
 
 <!-- Machine Translation (Non-Autoregressive)-->
 ## Machine Translation (Non-Autoregressive)
+- November 2020: [Context-Aware Cross-Attention for Non-Autoregressive Translation](https://arxiv.org/abs/2011.00770)
 - April 2020: [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/abs/2004.07437)
 
 <!-- Machine Translation (Low-Resource)-->
@@ -81,6 +83,8 @@
 ### Long Text
 - October 2020: [Long Document Ranking with Query-Directed Sparse Transformer](https://arxiv.org/abs/2010.12683)
 - June 2020: [Progressive Generation of Long Text](https://arxiv.org/abs/2006.15720)
+### Word Sense Disambiguation
+- November 2020: [Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks](https://arxiv.org/abs/2011.01846)
 ### Pretraining
 #### Auxiliary Tasks
 - October 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
