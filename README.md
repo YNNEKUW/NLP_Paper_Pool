@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Datset](#dataset)
   * [Open Domain QA](#open-domain-qa)
+  * [Multi-hop QA]#(multi-hop-qa)
 * [Machine Translation](#machine-translation)
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
 * [Machine Translation (Low-Resource)](#machine-translation-low-resource)
@@ -25,6 +26,8 @@
 ## Dataset
 ### Open Domain QA
 - October 2020: [Open-Domain Question Answering Goes Conversational via Question Rewriting](https://arxiv.org/abs/2010.04898)
+### Multi-hop QA
+- November 2020: [Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps](https://arxiv.org/abs/2011.01060)
 
 <!-- Machine Translation -->
 ## Machine Translation
