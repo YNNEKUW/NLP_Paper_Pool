@@ -46,6 +46,7 @@
 
 <!-- Machine Translation (Low-Resource)-->
 ## Machine Translation (Low-Resource)
+- October 2020: [Cross-lingual Machine Reading Comprehension with Language Branch Knowledge Distillation](https://arxiv.org/abs/2010.14271)
 - October 2020: [Improving Target-side Lexical Transfer in Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.01667)
 - September 2020: [Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages](https://arxiv.org/abs/2009.11201)
 
