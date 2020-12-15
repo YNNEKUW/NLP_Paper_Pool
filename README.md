@@ -23,6 +23,7 @@
 * [Rich Answer Type](#rich-answer-type)
 * [Optimizer](#optimizer)
 * [Text Attribute Transfer](#text-attribute-transfer)
+* [Layer Analysis](#layer-analysis)
 
 <!-- Dataset -->
 ## Dataset
@@ -120,6 +121,10 @@
 <!-- Text Attribute Transfer -->
 ## Text Attribute Transfer
 - November 2020:[Deep Learning for Text Attribute Transfer: A Survey](https://arxiv.org/abs/2011.00416)
+
+<!-- Layer Analysis-->
+## Layer Analysis
+- October 2020 :[Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327)
 
 ## Need to update
 1. An Attention Free Transformer
