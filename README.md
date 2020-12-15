@@ -34,6 +34,7 @@
 
 <!-- Machine Translation -->
 ## Machine Translation
+- November 2020: [Language Models not just for Pre-training: Fast Online Neural Noisy Channel Modeling](https://arxiv.org/abs/2011.07164)
 - October 2020: [Nearest Neighbor Machine Translation](https://arxiv.org/abs/2010.00710)
 - October 2020: [Inference Strategies for Machine Translation with Conditional Masking](https://arxiv.org/abs/2010.02352)
 - October 2020: [Multi-task Learning for Multilingual Neural Machine Translation](https://arxiv.org/abs/2010.02523)
