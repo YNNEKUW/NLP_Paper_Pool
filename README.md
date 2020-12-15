@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Datset](#dataset)
   * [Open Domain QA](#open-domain-qa)
-  * [Multi-hop QA]#(multi-hop-qa)
+  * [Multi-hop QA](#multi-hop-qa)
 * [Machine Translation](#machine-translation)
 * [Machine Translation (Non-Autoregressive)](#machine-translation-non-autoregressive)
 * [Machine Translation (Low-Resource)](#machine-translation-low-resource)
@@ -98,6 +98,8 @@
 - October 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
 #### Special Tokens Across Layers
 - October 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
+#### Sub-modules
+- October 2020: [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://arxiv.org/abs/2010.16046)
 ### Miscellaneous
 - July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
 
