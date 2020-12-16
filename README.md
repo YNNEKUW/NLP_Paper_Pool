@@ -79,6 +79,7 @@
 
 <!-- Transforemrs -->
 ## Transformers
+- 2020: Colorization Transformer
 - October 2020: [N-ODE Transformer: A Depth-Adaptive Variant of the Transformer Using Neural Ordinary Differential Equations](https://arxiv.org/abs/2010.11358)
 - August 2020: [DeLighT: Very Deep and Light-weight Transformer](https://arxiv.org/abs/2008.00623)
 - April 2020: [Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning](https://arxiv.org/abs/2004.08097)
