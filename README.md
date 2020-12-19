@@ -19,6 +19,7 @@
     * [Auxiliary Tasks](#auxiliary-tasks)
     * [Special Tokens Across Layers](#special-tokens-across-layers)
     * [Sub-modules](#sub-modules)
+    * [Loss](#loss)
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
@@ -105,6 +106,8 @@
 - October 2020: [Cross-Thought for Sentence Encoder Pre-training](https://arxiv.org/abs/2010.03652)
 #### Sub-modules
 - October 2020: [VECO: Variable Encoder-decoder Pre-training for Cross-lingual Understanding and Generation](https://arxiv.org/abs/2010.16046)
+#### Loss
+- September 2019: [You Only Train Once: Loss-Conditional Training of Deep Networks](https://openreview.net/pdf?id=HyxY6JHKwr)
 ### Miscellaneous
 - July 2020: [Data Movement Is All You Need: A Case Study on Optimizing Transformers](https://arxiv.org/abs/2007.00072)
 
