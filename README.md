@@ -18,6 +18,7 @@
   * [Pretraining](#pretraining)
     * [Auxiliary Tasks](#auxiliary-tasks)
     * [Special Tokens Across Layers](#special-tokens-across-layers)
+    * [Sub-modules](#sub-modules)
   * [Miscellaneous](#miscellaneous)
 * [Explaination](#explaination)
 * [Rich Answer Type](#rich-answer-type)
