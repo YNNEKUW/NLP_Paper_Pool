@@ -26,6 +26,7 @@
 * [Optimizer](#optimizer)
 * [Text Attribute Transfer](#text-attribute-transfer)
 * [Layer Analysis](#layer-analysis)
+* [Pre-Finetunning](#pre-finetunning)
 
 <!-- Dataset -->
 ## Dataset
@@ -133,6 +134,10 @@
 <!-- Layer Analysis-->
 ## Layer Analysis
 - October 2020 :[Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth](https://arxiv.org/abs/2010.15327)
+
+<!-- Pre-Fintuning -->
+## Pre-Funetunning
+- January 2021: [Muppet: Massive Multi-task Representations with Pre-Finetuning](https://arxiv.org/abs/2101.11038)
 
 ## Need to update
 1. An Attention Free Transformer
