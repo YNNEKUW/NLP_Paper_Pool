@@ -16,6 +16,7 @@
   * [Long Text](#long-text)
   * [Word Sense Disambiguation](#word-sense-disambiguation)
   * [Pretraining](#pretraining)
+    * [Sequence Span Rewriting](#sequence-span-rewriting)
     * [Auxiliary Tasks](#auxiliary-tasks)
     * [Special Tokens Across Layers](#special-tokens-across-layers)
     * [Sub-modules](#sub-modules)
@@ -103,6 +104,9 @@
 ### Word Sense Disambiguation
 - November 2020: [Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks](https://arxiv.org/abs/2011.01846)
 ### Pretraining
+#### Sequence Span Rewriting
+- January 2021: [Improving Sequence-to-Sequence Pre-training via
+Sequence Span Rewriting](https://arxiv.org/abs/2101.00416)
 #### Auxiliary Tasks
 - October 2020: [On Losses for Modern Language Models](https://arxiv.org/abs/2010.01694)
 #### Special Tokens Across Layers
