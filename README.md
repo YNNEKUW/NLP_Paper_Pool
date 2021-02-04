@@ -37,6 +37,7 @@
 
 <!-- Machine Translation -->
 ## Machine Translation
+- January 2021: [An Efficient Transformer Decoder with Compressed Sub-layers](https://arxiv.org/abs/2101.00542)
 - December 2020: [Train Once, and Decode As You Like](https://www.aclweb.org/anthology/2020.coling-main.25.pdf)
 - November 2020: [Language Models not just for Pre-training: Fast Online Neural Noisy Channel Modeling](https://arxiv.org/abs/2011.07164)
 - October 2020: [Nearest Neighbor Machine Translation](https://arxiv.org/abs/2010.00710)
